@@ -43,6 +43,10 @@ body {
   margin-top: 5rem;
 }
 
+.contentRow:last-child {
+  margin-bottom: 5rem;
+}
+
 .textBox h2 {
   color: #ea1c2c;
   font-weight: 100;
@@ -59,4 +63,5 @@ body {
 /* JavaScript Navbar feature */
 .navbar.scrolled {
   background: #dec0de;
+  transition: background 200ms;
 }
