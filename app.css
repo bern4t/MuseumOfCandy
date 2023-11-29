@@ -39,6 +39,10 @@ body {
 }
 
 /* CONTENT SECTIONS */
+.contentRow {
+  margin-top: 5rem;
+}
+
 .textBox h2 {
   color: #ea1c2c;
   font-weight: 100;
